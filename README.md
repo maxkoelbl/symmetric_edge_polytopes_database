@@ -1,5 +1,5 @@
 # Symmetric edge polytopes
-Given a simple graph $G=(V,E)$, its \emph{symmetric edge polytope} is defined as the convex hull of vectors of the form $\pm (e_v - e_w)$ whenever there is an edge between $v$ and $w$.
+Given a simple graph $G=(V,E)$, its *symmetric edge polytope* is defined as the convex hull of vectors of the form $\pm (e_v - e_w)$ whenever there is an edge between $v$ and $w$.
 The vectors $e_v$ and $e_w$ are unit vectors of the space $\mathbb{R}^{|V|}$.
 
 # Database of biconnected graphs on 3 up to 10 vertices.
